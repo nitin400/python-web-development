@@ -1,0 +1,2 @@
+x="nitin"
+print(x)
